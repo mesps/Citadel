@@ -1,13 +1,13 @@
 # Citadel
 Game implemented by the students: 
 
--Ezequiel dos Santos (ejs3)
--Ítalo Henrique (ihls2)
--Luisa Nogueira (lncc)
--Maria Eduarda dos Santos (mesps)
--Samuel Brasileiro (sbsn)
--Tales Tomaz Costa (ttc)
--Thayná Luiza Gitirana (tlgc)
+- Ezequiel dos Santos (ejs3)
+- Ítalo Henrique (ihls2)
+- Luisa Nogueira (lncc)
+- Maria Eduarda dos Santos (mesps)
+- Samuel Brasileiro (sbsn)
+- Tales Tomaz Costa (ttc)
+- Thayná Luiza Gitirana (tlgc)
                        
 # Descrição
 A project by students of `Computer Engineering 2018.1` in Centro de Informática - UFPE
