@@ -6,11 +6,11 @@ Game implemented by the students:
 - Luisa Nogueira (lncc)
 - Maria Eduarda dos Santos (mesps)
 - Samuel Brasileiro (sbsn)
-- Tales Tomaz Costa (ttc)
+- Tales Tomaz Alvez (tta)
 - Thayná Luiza Gitirana (tlgc)
                        
 ### Description
-A project by students of `Computer Engineering 2018.1` in Centro de Informática - UFPE
+A project by students of `Computer Engineering - 2018.1` at Centro de Informática - UFPE
 
 Monitor: Mateus Valgueiro (mvt)
 
