@@ -1,5 +1,5 @@
 # Citadel
-Game implemented by the students: 
+Game implemented by: 
 
 - Ezequiel dos Santos (ejs3)
 - Ítalo Henrique (ihls2)
